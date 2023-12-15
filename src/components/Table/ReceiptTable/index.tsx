@@ -1,0 +1,1 @@
+export { ReceiptTable } from './ReceiptTable'
